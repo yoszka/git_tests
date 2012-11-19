@@ -1,5 +1,5 @@
 on separate branch
-This is master branch,
+changes on branch wo push, making push on master
 added second line
 4 branch
 change 2
