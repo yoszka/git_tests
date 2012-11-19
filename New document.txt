@@ -1,3 +1,6 @@
 on separate branch
 This is master branch,
 added second line
+4 branch
+change 2
+change 3
