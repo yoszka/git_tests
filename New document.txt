@@ -1,1 +1,2 @@
 on separate branch
+changes on master wo push, making push on branch
