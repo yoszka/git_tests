@@ -1,1 +1,3 @@
 Some changes in location 1
+fix in location 2
+Some next changes in location 1
