@@ -1,1 +1,2 @@
 This is hot patch on master
+Add solution 2
