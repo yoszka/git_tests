@@ -1,5 +1,6 @@
 some conetent
 Third branch
 some changes
-Jestem na branchu AAAAAAAAAAAAAAAAAAAAAAAAAAA
+Jestem na branchu AAAAAAAAAAAAAAAAAAAAAAAAAAA 
 dopisane na koncu
+ja tu nic nie widzê
